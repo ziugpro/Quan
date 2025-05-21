@@ -1,5 +1,7 @@
 if game.GameId == 7074860883 then
- loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/Arise-Crossover.lua'))() 
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/Arise-Crossover.lua'))()
+elseif game.GameId == 7436755782 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/GrowAGarden'))()
 else
   game.Players.LocalPlayer:Kick("[ Not Support ]")
 end
