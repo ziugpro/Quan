@@ -3,6 +3,14 @@ if game.GameId == 7074860883 then
 elseif game.GameId == 7436755782 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/GrowAGarden'))()
 elseif game.GameId == 7018190066 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/DeadRails")()
 else
-  game.Players.LocalPlayer:Kick("[ Not Support ]")
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Tool Hub",
+    Text = "Not Support",
+    Icon = "rbxthumb://type=Asset&id=76608011467652&w=420&h=420",
+    Duration = 5,
+    Callback = function()
+    end
+})
 end
