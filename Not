@@ -5,7 +5,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/
 elseif game.GameId == 7018190066 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/DeadRails"))()
 elseif game.GameId == 6325068386 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/Blue-Lock'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/Blue-Lock-Fearise-Hub'))()
 else
 game.StarterGui:SetCore("SendNotification", {
     Title = "Tool Hub",
