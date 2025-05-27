@@ -15,12 +15,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/
 elseif game.GameId == 7513130835 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/untitleddrillgame"))()
 else
-game.StarterGui:SetCore("SendNotification", {
-    Title = "Tool Hub",
-    Text = "Not Support",
-    Icon = "rbxthumb://type=Asset&id=76608011467652&w=420&h=420",
-    Duration = 5,
-    Callback = function()
-    end
-})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/SPTSClassic"))()
 end
