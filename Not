@@ -6,6 +6,8 @@ elseif game.GameId == 7018190066 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/DeadRails"))()
 elseif game.GameId == 6325068386 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/Blue-Lock-Fearise-Hub'))()
+elseif game.GameId == 7449423635 or game.PlaceId == 2753915549 or game.PlaceId == 4442272183 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/BloxFruit"))()
 else
 game.StarterGui:SetCore("SendNotification", {
     Title = "Tool Hub",
