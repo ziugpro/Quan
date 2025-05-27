@@ -10,6 +10,8 @@ elseif game.GameId == 7449423635 or game.PlaceId == 2753915549 or game.PlaceId =
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/BloxFruit"))()
 elseif game.GameId == 7541395924 or game.PlaceId == 101949297449238 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/Buildanisland"))()
+elseif game.GameId == 66654135 or game.PlaceId == 142823291 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/MurderMystery2"))()
 else
 game.StarterGui:SetCore("SendNotification", {
     Title = "Tool Hub",
