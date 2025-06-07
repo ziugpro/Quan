@@ -1,11 +1,11 @@
 if game.GameId == 7074860883 then -- Arise Crossover
  loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/Arise-Crossover.lua'))()
 elseif game.GameId == 7436755782 then -- Grow A Garden
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/GrowAgarden'))() -- Grow A Garden 
-elseif game.GameId == 3756501373 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/MemeSea"))(( -- Meme Sea
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/GrowAgarden'))() 
+elseif game.GameId == 3756501373 then -- Meme Sea
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/MemeSea"))()
 elseif game.GameId == 7018190066 then -- Dead Rails
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/DeadRails"))() -- Dead Rails
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/DeadRails"))()
 elseif game.GameId == 6325068386 then -- Blue Lock
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ziugpro/ZiugproIsGay/refs/heads/main/Blue-Lock'))()
 elseif game.GameId == 7449423635 or game.PlaceId == 2753915549 or game.PlaceId == 4442272183 then -- Blox Fruit
